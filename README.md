@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <a href="https://instagram.com/spr.ramezani"><img src="./logo.png" width="200"></a>
-  <br>
   Spr.ramezani
 </h1>
 
